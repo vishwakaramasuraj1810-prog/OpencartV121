@@ -1,0 +1,40 @@
+23:12:02.228 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\SeleniumWebdriver\OpencartV121\groups.xml
+
+23:15:29.643 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\SeleniumWebdriver\OpencartV121\Master.xml
+
+23:16:38.316 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\SeleniumWebdriver\OpencartV121\Master.xml
+
+10:28:11.843 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\SeleniumWebdriver\OpencartV121\Master.xml
+
+10:28:17.965 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+10:28:18.000 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+10:28:18.071 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+10:28:18.730 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details.....
+10:28:19.939 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+10:28:19.994 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Closing TC001_AccountRegistrationTest ****
+10:28:22.222 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+10:28:51.609 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+10:28:51.638 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+10:28:51.830 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+10:28:52.337 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details.....
+10:28:53.429 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+10:28:53.467 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Closing TC001_AccountRegistrationTest ****
+10:28:55.501 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+10:47:22.991 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+10:47:23.014 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+10:47:23.102 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+10:47:23.562 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details.....
+10:47:24.689 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+10:47:24.724 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Closing TC001_AccountRegistrationTest ****
+10:47:26.747 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+10:55:16.096 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+10:55:16.143 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+10:55:16.305 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+10:55:16.670 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details.....
+10:55:17.799 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+10:55:17.847 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Closing TC001_AccountRegistrationTest ****
+10:55:19.850 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
